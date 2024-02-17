@@ -21,3 +21,4 @@ print("a idade total é:", totalidade)
 idade2 = 40
 totalidade = idade + idade2
 print("a idade total é:", totalidade)
+
